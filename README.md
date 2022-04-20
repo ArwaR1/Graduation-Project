@@ -1,2 +1,15 @@
-# Graduation-Project
-Graduation-Project is Voice-Controlled Wheelchair by using Voice-Recognition and Arduino
+# Voice-Controlled Wheelchair
+
+Graduation project is Voice-Controlled Wheelchair by using Voice-Recognition and Arduino
+
+## Gole:
+Intelligent wheelchair for the disabled using voice
+commands in Arabic.
+
+### Technologies Used:
+Voice-Recognition and Arduino
+
+#### Contributors
+Arwa                
+Amjad  
+Sadeem
